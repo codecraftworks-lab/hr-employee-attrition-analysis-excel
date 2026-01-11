@@ -8,4 +8,17 @@ Tujuan utama proyek adalah membantu tim Human Resources memahami pola karyawan y
 - Mengidentifikasi karakteristik karyawan dengan tingkat attrition tinggi  
 - Menganalisis hubungan attrition dengan faktor demografis, pekerjaan, dan kepuasan kerja  
 - Menyajikan insight dalam bentuk **dashboard visual yang mudah dipahami**  
-- Mendukung pengambilan keputusan HR secara lebih objektif  
+- Mendukung pengambilan keputusan HR secara lebih objektif
+
+## 📂 Dataset Description
+Dataset berisi data karyawan dengan berbagai variabel, antara lain:
+- Demografi: Age, Gender, Marital Status, Education
+- Pekerjaan: Department, Job Role, Job Level, Business Travel
+- Kepuasan & Kinerja: Job Satisfaction, Environment Satisfaction, Work-Life Balance, Performance Rating
+- Kompensasi: Monthly Income, Salary Slab, Percent Salary Hike
+- Status Karyawan: Attrition (Yes/No)
+
+Data telah melalui proses:
+- Pembersihan (cleaning)
+- Pengelompokan kategori (labeling)
+- Transformasi untuk kebutuhan analisis dan visualisasi
