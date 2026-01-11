@@ -22,3 +22,10 @@ Data telah melalui proses:
 - Pembersihan (cleaning)
 - Pengelompokan kategori (labeling)
 - Transformasi untuk kebutuhan analisis dan visualisasi
+
+## 🛠 Tools & Techniques
+- **Microsoft Excel**
+  - Pivot Table & Pivot Chart  
+  - IF, AVERAGE, COUNTIF, dan fungsi pendukung analisis  
+  - Data labeling & grouping  
+  - Dashboard design  
