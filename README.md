@@ -36,4 +36,11 @@ Data telah melalui proses:
 - **Analysis**  
   Pivot table dan perhitungan analitis untuk menjawab pertanyaan bisnis  
 - **Dashboard**  
-  Visualisasi interaktif yang merangkum insight utama terkait attrition  
+  Visualisasi interaktif yang merangkum insight utama terkait attrition
+
+## 🔍 Key Analysis Focus
+- Attrition berdasarkan usia dan kelompok usia  
+- Attrition per department dan job role  
+- Hubungan overtime dengan tingkat attrition  
+- Pengaruh job satisfaction dan work-life balance terhadap attrition  
+- Perbandingan pendapatan antara karyawan stay vs leave  
