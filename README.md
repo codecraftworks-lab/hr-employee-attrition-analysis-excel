@@ -1,2 +1,5 @@
-# hr-employee-attrition-analysis-excel
-Analisis tingkat employee attrition menggunakan Microsoft Excel untuk mengidentifikasi faktor-faktor utama yang memengaruhi keputusan karyawan keluar dari perusahaan, dilengkapi dengan dashboard interaktif sebagai alat bantu pengambilan keputusan HR berbasis data.
+# HR Employee Attrition Analysis (Excel-Based)
+
+## 📌 Overview
+Repository ini berisi proyek analisis **employee attrition** menggunakan Microsoft Excel.  
+Tujuan utama proyek adalah membantu tim Human Resources memahami pola karyawan yang keluar (attrition) serta faktor-faktor yang berkontribusi terhadapnya, sehingga dapat dirumuskan strategi retensi yang lebih efektif dan berbasis data.
