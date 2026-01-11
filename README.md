@@ -29,3 +29,11 @@ Data telah melalui proses:
   - IF, AVERAGE, COUNTIF, dan fungsi pendukung analisis  
   - Data labeling & grouping  
   - Dashboard design  
+
+## 📊 Sheet Structure
+- **HR_Attrition**  
+  Dataset utama yang telah dibersihkan dan siap dianalisis  
+- **Analysis**  
+  Pivot table dan perhitungan analitis untuk menjawab pertanyaan bisnis  
+- **Dashboard**  
+  Visualisasi interaktif yang merangkum insight utama terkait attrition  
